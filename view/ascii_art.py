@@ -105,7 +105,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 |((_)\ /(_))\  )\       powered by: @Dolpin-Mixtral - @LMStudio - @LangChain
 |_ ((_|_))((_)((_)          version: 1.0
 | |/ /| _ \ \ / /       date: 2024-01-29
-  ' < |   /\ V /    license: lisensiado
+  ' < |   /\ V /    
  _|\_\|_|_\ \_/   
 --------------------------------------------------------------------------------------------------------------------                                                                                                              
     """)
